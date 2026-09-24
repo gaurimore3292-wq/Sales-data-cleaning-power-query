@@ -1,6 +1,5 @@
 • Sales Data Cleaning & Transformation – Excel Power Query
-
- • Project Overview
+• Project Overview
 
 This project focuses on cleaning, transforming, and preparing raw sales data using **Microsoft Excel Power Query**.
 
@@ -13,7 +12,7 @@ Power Query was used to perform data cleaning and transformation tasks and creat
 * Microsoft Excel
 * Power Query
 
-•Dataset Columns
+• Dataset Columns
 
 * Customer
 * City
