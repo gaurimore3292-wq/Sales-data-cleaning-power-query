@@ -77,9 +77,21 @@ The final dataset was validated after all cleaning and transformation steps.
 
 •  Refresh Test
 
-A source Sales value was changed in the original Excel data and the Power Query was refreshed using **Refresh All**.
+A source Sales value was changed in the original Excel data and the Power Query was refreshed using Refresh All.
 
 The updated value appeared in the final output, confirming that the Power Query workflow can be refreshed when the source data changes.
+
+ • Project Screenshots
+
+Screenshots showing the project workflow and Power Query transformations:
+
+1. Raw Sales Data
+2. Power Query Editor
+3. Data Type Validation
+4. Customer Name Transformation
+5. Month Transformation
+6. Final Cleaned & Transformed Data
+
 
 
 
