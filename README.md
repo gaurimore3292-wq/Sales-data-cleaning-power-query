@@ -21,3 +21,18 @@ Power Query was used to perform data cleaning and transformation tasks and creat
 * Quantity
 * Sales
 
+ •  Project Objective
+
+The main objective of this project is to clean and transform raw sales data using Excel Power Query.
+
+The project aims to:
+
+* Remove and handle data quality issues.
+* Convert columns into appropriate data types.
+* Transform text and date fields.
+* Create calculated columns for analysis.
+* Categorize sales based on conditions.
+* Validate the final dataset.
+* Create a refreshable and analyst-ready dataset.
+
+
